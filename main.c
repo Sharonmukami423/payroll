@@ -1,6 +1,6 @@
 /*
 payroll system
-created by Alexander wambugu
+created by Sharon mukami
 On march 8,2022
 MIT license
 c99
